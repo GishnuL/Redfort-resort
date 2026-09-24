@@ -1,0 +1,7 @@
+# Red Fort Resort — https://redfortresort.com/
+# robots.txt — allow all crawlers full access
+
+User-agent: *
+Allow: /
+
+Sitemap: https://redfortresort.com/sitemap.xml
